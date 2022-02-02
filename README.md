@@ -1,10 +1,8 @@
 # infinite_photo_capture_using_webcam
 With this python code you can take photo of yourself.
 
-1. git clone 
+1. git clone https://github.com/yasharazadvatan/infinite_photo_capture_using_webcam.git
 
-For running the code:
-
-python run.py
+2. python run.py
   
-Press Q for interrupting
+3. Press Q for interrupting
