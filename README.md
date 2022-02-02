@@ -1,8 +1,8 @@
 # infinite_photo_capture_using_webcam
 with this python code you can take photo of yourself
 
-run
+For running the code:
+
   python run.py
   
-quite
-  press Q
+Press Q for interrupting
